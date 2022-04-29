@@ -1,4 +1,4 @@
-test6.py
+check-if-it-is-divisible.py
 num = int(input("Enter the number whose divisibility needs to be checked:"))
 
 div = int(input("Enter the number with which divisibility needs to be checked:"))
